@@ -19,12 +19,12 @@ gallery:
     image_path: /assets/images/shahmirzad.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+  - url: /assets/images/qalee.jpg
+    image_path: /assets/images/qalee.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+  - url: /assets/images/bam mahdishar.jpg
+    image_path: /assets/images/bam mahdishar.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
 ---
