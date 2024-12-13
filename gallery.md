@@ -29,5 +29,5 @@ gallery:
     title: "بام مهدیشهر"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="تعدادی از عکس های پویا" %}
 
