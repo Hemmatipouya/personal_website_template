@@ -10,23 +10,23 @@ gallery:
   - url: /assets/images/chashm.jpg
     image_path: /assets/images/chashm.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "جاده چاشم"
   - url: /assets/images/shirqalee.jpg
     image_path: /assets/images/shirqalee.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "بالای قلعه باستانی"
   - url: /assets/images/shahmirzad.jpg
     image_path: /assets/images/shahmirzad.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
+    title: "برف جاده چاشم"  
   - url: /assets/images/qalee.jpg
     image_path: /assets/images/qalee.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "نمای درون قلعه"
   - url: /assets/images/bam mahdishahr.jpg
     image_path: /assets/images/bam mahdishahr.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "بام مهدیشهر"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
