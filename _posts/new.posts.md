@@ -7,7 +7,7 @@ title: Blog Post with Table
 
 | نام     | نام خانوادگی |
 |---------|---------------|
-| پویا    |همتی        |
+| پویاhhhhh    |همتی        |
 
 ![alt text](../assets/images/broken_image.jpg "Broken Image")
 
